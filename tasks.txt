@@ -1,0 +1,93 @@
+///////////
+js
+//////////
+1	
+Стартуем и пишем первую программу (update 2021-05-12)
++	yes	20
+2	
+Основы ввода данных (update 2021-05-12)
++	yes	20
+3	
+Оператор If, else, switch case - выбор в JavaScript (update 2021-05-12)
++	yes	15
+4	
+Работаем с формами: input, range, textarea, checkbox (update 2021-05-12)
++	yes	20
+5	
+Циклы в JavaScript (часть 1)(update 2021-05-12)
++	yes	15
+6	
+Вложенные циклы в JavaScript (часть 2)(update 2021-05-12)
++	yes	10
+7	
+Функции и все о них (update 2021-05-12)
++	yes	10
+8	
+Цикл While, Do While
+-	yes	15
+9	
+Работаем с DOM
++	yes	20
+10	
+Массивы в JavaScript
++	yes	20
+11	
+Добавление и удаление элементов в массиве, pop, push,splice
++	yes	20
+12	
+Двумерные массивы
++	yes	20
+13	
+Ассоциативный массив (объект) в JavaScript
++	yes	20
+14	
+Практика по массивам - получаем прогноз погоды по API
++	yes	20
+15	
+Set в JavaScript
++	yes	13
+16	
+Перебор массивов: for, for in, for of
++	yes	15
+17	
+Методы массивов: map, filter ( часть 1)
++	yes	15
+18	
+Методы массивов: join, split, forEach ( часть 2)
++	yes	10
+19	
+События мыши в JavaScript
++	yes	20
+20	
+События клавиатуры в JavaScript
++	yes	11
+21	
+Краткий обзор touch событий
++	yes	12
+22	
+Обрабатываем ошибки с помощью Try Catch
++	yes	5
+23	
+LocalStorage. Сохраняем все
++	yes	8
+24	
+Немного теории - работа с POST, GET запросами
++	no	0
+25	
+AJAX - асинхронный JavaScript
++	yes	18
+26	
+Учим FETCH на практике
++	yes	18
+27	
+Работаем с промисами (Promise)
++	yes	8
+28	
+ООП в ES6
++	yes	12
+29	
+Бонусы - замыкания
++	no	0
+30	
+Бонус - Рекурсия
++	no	0
