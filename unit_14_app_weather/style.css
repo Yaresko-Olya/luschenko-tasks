@@ -1,0 +1,29 @@
+html, body {
+    font-family: serif;
+}
+body {
+    
+    margin: 50px;
+}
+
+.features{
+    padding: 0;
+}
+
+.out-deg {
+    margin-top: 25px;
+}
+
+.city {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.form {
+    width: 150px;
+    border-radius: 5px;
+    border: 2px solid rgb(243, 134, 45);
+    padding: 15px;
+    margin-top: 25px;
+    text-align: center;
+}
